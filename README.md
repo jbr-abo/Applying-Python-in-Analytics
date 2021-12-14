@@ -23,7 +23,6 @@ most CountryRegion associated to it?
 • Select the data for the months March and April, and for the country US. Was the average number
 of daily new deaths higher in March or April in US?
 
-
 # Task 02: 
 In this exercise, you will have to analyze a dataset (AB NYC 2019.csv) that we worked
 with in the lecture. The data includes information about hosts, geographical availability, and different metrics available from Airbnb places in New York City (https://www.kaggle.com/dgomonov/
