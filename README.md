@@ -30,7 +30,7 @@ of daily new deaths higher in March or April in US?
 
 # Task 02: 
 In this exercise, you will have to analyze a dataset (AB NYC 2019.csv) that we worked
-with in the lecture. The data includes information about hosts, geographical availability, and different metrics available from Airbnb places in New York City (https://www.kaggle.com/dgomonov/
+with in the lecture. The data includes information about hosts, geographical availability, and different metrics available from Airbnb places in New York City (https://www.kaggle.com/dgomonov/
 new-york-city-airbnb-open-data). You need to write the code to answer the following questions to
 understand the data further.
 
@@ -48,12 +48,16 @@ The data includes information of customer activity data (features), along with a
 whether a customer canceled the subscription (more information at https://www.kaggle.com/mnassrib/
 telecom-churn-datasets?select=churn-bigml-80.csv). You need to write the code to answer the
 following questions.
+
 • Focusing on day, eve and night calls as considered in the data, which part of the day has the highest
 total number of calls? Is the part of day with the highest total charge is the same?
+
 • What is the maximum amount of customer service calls that appear in the dataset, and how many
 individual customers had exactly that number of service calls?
+
 • Choose one categorical column which has less than 5 possible values, and add new dummy columns
 to the dataset for the selected column.
+
 • Create a new column as the sum of the total day, eve and night call columns. Considering this
 new total daily call value, who had in average higher number of calls: customers with or without
 international plan?
