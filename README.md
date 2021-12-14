@@ -34,3 +34,20 @@ order to do this, identify the neighbourhood group with (i) the highest average 
 highest total number of reviews.
 • Next, analyse the data from the perspective of room type and identify which room type has (i) the
 highest average price, and (ii) the highest average number of reviews.
+
+
+# Task 03: 
+In this exercise, you will have to work with a telecom churn dataset (churn-bigml-80.csv).
+The data includes information of customer activity data (features), along with a churn label specifying
+whether a customer canceled the subscription (more information at https://www.kaggle.com/mnassrib/
+telecom-churn-datasets?select=churn-bigml-80.csv). You need to write the code to answer the
+following questions.
+• Focusing on day, eve and night calls as considered in the data, which part of the day has the highest
+total number of calls? Is the part of day with the highest total charge is the same?
+• What is the maximum amount of customer service calls that appear in the dataset, and how many
+individual customers had exactly that number of service calls?
+• Choose one categorical column which has less than 5 possible values, and add new dummy columns
+to the dataset for the selected column.
+• Create a new column as the sum of the total day, eve and night call columns. Considering this
+new total daily call value, who had in average higher number of calls: customers with or without
+international plan?
