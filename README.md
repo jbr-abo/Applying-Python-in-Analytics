@@ -4,7 +4,7 @@ These are the tasks that I have done as Part of my Master's program. This is the
 
 It was a 05 ECTS worthy course
 
-# Task 01: 
+### Task 01: 
 In this task, you have to work with a dataset in the file full group.csv (more details about the
 data https://www.kaggle.com/imdevskp/corona-virus-report?select=full_grouped.csv). 
 
