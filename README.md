@@ -2,8 +2,9 @@
 
 These are the tasks that I have done as Part of my Master's program. This is the level after familiarizing myself with Python.
 
-It was a 05 ECTS worthy course
+It was a 05 ECTS worthy course consisting of total 03 assignments and lots of practicing and solving different real world problems.
 
+# Assignment 01
 ### Task 01: 
 In this task, you have to work with a dataset in the file full group.csv (more details about the
 data https://www.kaggle.com/imdevskp/corona-virus-report?select=full_grouped.csv). 
@@ -39,7 +40,6 @@ highest total number of reviews.
 
 • Next, analyse the data from the perspective of room type and identify which room type has (i) the
 highest average price, and (ii) the highest average number of reviews.
-
 
 # Task 03: 
 In this exercise, you will have to work with a telecom churn dataset (churn-bigml-80.csv).
