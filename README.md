@@ -28,7 +28,7 @@ most CountryRegion associated to it?
 • Select the data for the months March and April, and for the country US. Was the average number
 of daily new deaths higher in March or April in US?
 
-# Task 02: 
+### Task 02: 
 In this exercise, you will have to analyze a dataset (AB NYC 2019.csv) that we worked
 with in the lecture. The data includes information about hosts, geographical availability, and different metrics available from Airbnb places in New York City (https://www.kaggle.com/dgomonov/
 new-york-city-airbnb-open-data). You need to write the code to answer the following questions to
@@ -41,7 +41,7 @@ highest total number of reviews.
 • Next, analyse the data from the perspective of room type and identify which room type has (i) the
 highest average price, and (ii) the highest average number of reviews.
 
-# Task 03: 
+### Task 03: 
 In this exercise, you will have to work with a telecom churn dataset (churn-bigml-80.csv).
 The data includes information of customer activity data (features), along with a churn label specifying
 whether a customer canceled the subscription (more information at https://www.kaggle.com/mnassrib/
