@@ -8,8 +8,7 @@ It was a 05 ECTS worthy course
 In this task, you have to work with a dataset in the file full group.csv (more details about the
 data https://www.kaggle.com/imdevskp/corona-virus-report?select=full_grouped.csv). 
 
-Note I added three columns, ’year’, ’month’ and ’day’, extracted from the Date column, that may be useful in
-some of the tasks. The dataset contains information about the number of confirmed, recovered and death
+The dataset contains information about the number of confirmed, recovered and death
 cases related to COVID 19 in the initial months. The dataset has one row for each day and country
 combination. The columns with name starting ’New’ record the numbers for that specific day, while
 other columns provide cumulative values up to that day. In the tasks, you have to select, summarize and
