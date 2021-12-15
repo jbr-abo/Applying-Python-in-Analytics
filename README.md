@@ -13,7 +13,7 @@ These are the Assignments that I have done as Part of my Master's program. This 
 • Statistical analysis in Python
 • Basics of machine learning libraries in Python
 
-This 05 ECTS worthy course consisting of total 03 assignments and hands on case studies with essential theory and solving different real world problems.
+This 05 ECTS worthy course comprises total 03 assignments and hands on case studies with essential theory and solving different real world problems.
 
 ### Learning outcomes
 
