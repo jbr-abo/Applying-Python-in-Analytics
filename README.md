@@ -3,7 +3,7 @@
 These are the Assignments that I have done as Part of my Master's program. This is the next level coursework after familiarizing myself with Python.
 
 
-### It is an advanced level course and Specific topics covered in this course are the followings:
+#### It is an advanced level course and Specific topics covered in this course are the followings:
 
 • pandas library
 • Data cleaning and preparation
@@ -17,7 +17,7 @@ This 05 ECTS worthy course consisting of total 03 assignments and hands on case 
 
 ### Learning outcomes
 
-After completing this course the I now am capable to-
+After completing this course I now am capable to-
 
 • Understand business analytics concepts, techniques, issues, applications
 
