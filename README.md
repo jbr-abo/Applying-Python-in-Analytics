@@ -1,4 +1,4 @@
-# Applying-Python-in-Analytics
+# Analytics with Python-I
 
 These are the Assignments that I have done as Part of my Master's program. This is the next level coursework after familiarizing myself with Python.
 
