@@ -3,7 +3,9 @@
 These are the Assignments that I have done as Part of my Master's program. This is the next level coursework after familiarizing myself with Python.
 
 
-#### It is an advanced level course and Specific topics covered in this course are the followings:
+### Topics
+
+It is an advanced level course and Specific topics covered in this course are the followings:
 
 • pandas library
 • Data cleaning and preparation
